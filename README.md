@@ -4,7 +4,7 @@ End-to-end Power BI executive dashboard
 Academic Case Study built using anonymized loan sample data to evaluate macro origination trends, capital allocation, and top-level portfolio solvency metrics.
 
 ## 📊 Project Overview & Key Metrics
-* **Total Applications Analyzed:149,000
+* **Total Applications Analyzed:**149,000
 * **Total Disbursed Volume:** $49 Billion.
 * **Overall Default Rate:** 24.64% ($11.70 Billion defaulted exposure)
 * **Capital Adequacy Ratio:** 76.24%
